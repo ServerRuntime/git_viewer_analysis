@@ -1,0 +1,15 @@
+# Git Analiz Pro - Bağımlılıklar
+# Python 3.8+ gereklidir
+
+# Veri analizi
+pandas>=1.3.0
+
+# Grafik görselleştirme
+matplotlib>=3.4.0
+
+# Tarih seçici widget
+tkcalendar>=1.6.1
+
+# Excel export desteği
+openpyxl>=3.0.0
+
